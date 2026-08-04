@@ -10,8 +10,8 @@ Built for **BuildByte Hackathon 2026**
 ## Team - CODENYX 
 
 **Team Members:**
-- Aleena Khalid - CS25056
-- Laiba Qasim - CS25069
+- Aleena Khalid 
+- Laiba Qasim 
 
 ---
 
